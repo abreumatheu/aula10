@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    position: sticky; top:0px;
+}
+
+.desconto{
+    height: 38px;
+    background-color: #1CD1B0;
+    font-family: roboto;
+    position: sticky; top:0px;
+}
+
+.titulo-pagina{
+    height: 101px;
+    background-color: #00669F;
+    position: sticky; top:0px;
+}
+
+.card-personagem{
+    width: 374px;
+    height: 600px;
+    background-color: #F3F3F3;
+    display: inline-block;
+    margin-left: 112px;
+    margin-top: 110px;
+    flex-direction: row-reverse;
+    margin-bottom: 60px;
+}
+
+.card-batman{
+    width: 374px;
+    height: 600px;
+    background-color: #F3F3F3;
+    display: inline-block;
+    margin-left: 112px;
+    margin-top: 110px;
+}
+
+.curtir{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+
+}
+
+.foto-perfil{
+    position: absolute;
+    width: 135px;
+    height: 133px;
+    border-radius: 50%;
+    margin-left: -260px;
+    margin-top: 150px;
+}
+
+.card-titulo{
+    text-align: center;
+    padding-top: 105px;
+}
+
+
+h1{
+    margin-left: 28px;
+    padding-top: 25px;
+}
+
+p{
+    margin-left: 28px;
+    padding-top: 15px;
+}
+
+.descricao{
+    text-align: center;
+    margin-left: -5px;
+    
+}
+
+.botao{
+    position: absolute;
+    background-color: #00669F;
+    margin-left: 110px;
+    height: 54px;
+    width: 145px;
+    
+    
+}
+
+
+footer{
+    height: 51px;   
+    background-color: #00669F;
+    color: #FFF9F9;
+    padding-top: 20px;
+
+    
+}
+
+.link{
+    color: #F3F3F3;
+    margin-left: 40px;
+}
+
+.rodape{
+    margin-left: 28px;
+}
